@@ -1,4 +1,4 @@
-#Hangman Game
+# Hangman Game
 Made with C.
 
 ## Add words
