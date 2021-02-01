@@ -1,6 +1,9 @@
 # Hangman Game
 Made with C.
 
+## Build
+Just run make with : make
+
 ## Add words
 Just add words in worlds_list.txt, add the words according to the current pattern
 
